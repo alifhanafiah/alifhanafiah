@@ -14,3 +14,10 @@ Saya memiliki beberapa sertifikat dalam web development yaitu:
  - [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/6RPNDO4W9Z2M)
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alifhanafiah/)ku ya.
+
+<p align="left">
+ <a href="https://github.com/alifhanafiah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alifhanafiah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alifhanafiah&layout=compact&langs_count=8&theme=algolia"/>
+ </a>
+</p>
