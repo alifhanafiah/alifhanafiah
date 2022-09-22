@@ -11,8 +11,11 @@ Saya juga memiliki minat yang tinggi dengan Web Development khsususnya Front-end
 Saya memiliki beberapa sertifikat dalam web development yaitu:
  - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/6RPNDO9W4Z2M)
  - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/ERZRM739OPYV)
- - [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/6RPNDO4W9Z2M)
  - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/72ZDOD726XYW)
+ - [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/1OP863YDLXQK)
+ - [Sertifikat Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/81P2GRJEOPOY)
+ - [Sertifikat Belajar Fundamental Front-End Web Development](https://www.dicoding.com/certificates/72ZDOGG8JXYW)
+
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alifhanafiah/)ku ya.
 
