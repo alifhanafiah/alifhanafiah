@@ -19,6 +19,7 @@ Saya memiliki beberapa sertifikat dalam web development yaitu:
  - [Belajar Fundamental Aplikasi Web dengan React](https://www.dicoding.com/certificates/EYX491N06PDL)
  - [Meniti Karier sebagai Software Developer](https://www.dicoding.com/certificates/1OP856VNLPQK)
  - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/0LZ0G1LW3X65)
+ - [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/certificates/MEPJKYMKWX3V)
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alifhanafiah/)ku ya.
