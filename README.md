@@ -1,28 +1,9 @@
-# Halo semua! 
+# Halo y'all! 
 
-Perkenalkan nama saya **Muhammad Alif Hanafiah**.
-
-Saya seorang **Mahasiswa** di [UPI "YPTK" Padang](https://upiyptk.ac.id/).
-
-Saya berada di jurusan teknik informatika
-
-Saya juga memiliki minat yang tinggi dengan Web Development khsususnya Front-end Development
-
-Saya memiliki beberapa sertifikat dalam web development yaitu:
- - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/6RPNDO9W4Z2M)
- - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/ERZRM739OPYV)
- - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/72ZDOD726XYW)
- - [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/1OP863YDLXQK)
- - [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/81P2GRJEOPOY)
- - [Belajar Fundamental Front-End Web Development](https://www.dicoding.com/certificates/72ZDOGG8JXYW)
- - [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/certificates/MEPJE48J4X3V)
- - [Belajar Fundamental Aplikasi Web dengan React](https://www.dicoding.com/certificates/EYX491N06PDL)
- - [Meniti Karier sebagai Software Developer](https://www.dicoding.com/certificates/1OP856VNLPQK)
- - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/0LZ0G1LW3X65)
- - [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/certificates/MEPJKYMKWX3V)
+I'm a Passionate student who graduated from the prestigious Bangkit Academy program, learning from industry giants like Google, Tokopedia, Gojek, and Traveloka. As a Frontend Developer at MADU MINANG, I found fulfillment in enhancing user experiences and achieving webpage objectives. My work at Dinas Kesehatan Kabupaten Lima Puluh Kota involved developing an AI-powered web application to assess children's nutritional status, contributing to their well-being. I hold a Bachelor's degree in Computer Science from Universitas Putra Indonesia "YPTK" Padang and excel in leadership and teamwork. Fluent in English and Indonesian, I effectively collaborate and communicate. Certified in TensorFlow, Python, and web programming, reflecting my commitment to continuous learning. Proudly achieved the Highest GPA Rank in Computer Science three times, showcasing my dedication to academic excellence.
 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alifhanafiah/)ku ya.
+If you're interested in working with me, please contact me here [Linkedin](https://www.linkedin.com/in/alifhanafiah/).
 
 ### Github Statistic
 <p align="left">
