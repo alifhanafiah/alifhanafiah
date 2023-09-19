@@ -1,6 +1,7 @@
 # Halo y'all! 
 
-I'm a Passionate student who graduated from the prestigious Bangkit Academy program, learning from industry giants like Google, Tokopedia, Gojek, and Traveloka. As a Frontend Developer at MADU MINANG, I found fulfillment in enhancing user experiences and achieving webpage objectives. My work at Dinas Kesehatan Kabupaten Lima Puluh Kota involved developing an AI-powered web application to assess children's nutritional status, contributing to their well-being. I hold a Bachelor's degree in Computer Science from Universitas Putra Indonesia "YPTK" Padang and excel in leadership and teamwork. Fluent in English and Indonesian, I effectively collaborate and communicate. Certified in TensorFlow, Python, and web programming, reflecting my commitment to continuous learning. Proudly achieved the Highest GPA Rank in Computer Science three times, showcasing my dedication to academic excellence.
+Results-oriented Computer Science graduate with expertise in front-end development and machine learning. Dicoding Academy's "Best Graduate" in front-end development and a Machine Learning Engineer certified by Bangkit Academy. Skilled in React, TensorFlow, and a variety of web technologies. Known for creative problem-solving and a data-driven mindset. Excited to bring innovative solutions as a front-end and machine-learning specialist.
+
 
 
 If you're interested in working with me, please contact me here [Linkedin](https://www.linkedin.com/in/alifhanafiah/).
